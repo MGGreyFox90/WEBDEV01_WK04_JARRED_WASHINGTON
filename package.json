@@ -10,6 +10,10 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "chalk": "^4.1.2",
+    "chalk-animation": "^2.0.2",
+    "fitb": "^1.1.1",
+    "gradient-string": "^2.0.1",
     "inquirer": "^8.2.2",
     "lodash": "^4.17.21"
   },

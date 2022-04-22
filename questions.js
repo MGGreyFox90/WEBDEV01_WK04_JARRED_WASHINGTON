@@ -43,4 +43,15 @@ export default [
             'TikTok'
         ]
     },
+    {
+        type: 'list',
+        name: 'q5',
+        message: '_________ is the most powerful tech CEO?',
+        choices: [
+            'Jeff Bezos',
+            'Mark Zuckerberg',
+            'Elon Musk',
+            'Safra Catz'
+        ]
+    },
 ]

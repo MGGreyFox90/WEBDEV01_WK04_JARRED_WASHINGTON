@@ -8,6 +8,6 @@ export const rubric = (score, possible) => {
 }
 export const welcome = () => {
     console.clear()
-    console.log('Welcome to the Social Media Tech Quiz.')
+    console.log('\x1b[42m', 'Welcome to the Social Media Tech Quiz.');
     console.log(' ')
 }
